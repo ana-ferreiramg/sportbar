@@ -6,7 +6,7 @@ const inter = Inter({ subsets: ["latin"] });
 
 export const metadata: Metadata = {
   title: "Sport Bar",
-  description: "Bar de Matutina: bebidas geladas, petiscos feitos na hora, sinuca e muito mais!",
+  description: "Bebidas geladas, petiscos feitos na hora, sinuca e muito mais!",
 };
 
 export default function RootLayout({

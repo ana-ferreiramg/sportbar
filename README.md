@@ -1,6 +1,55 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+<h1 align="center">
+    🍻 <a href="#" alt="Site do DoctorCare"> SportBar </a>
+</h1>
 
-## Getting Started
+<h3 align="center">
+    🍻 Iced drinks, made-to-order snacks, snooker, and so much more! ❤️
+</h3>
+
+<p align="center">
+  <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/ana-ferreiramg/sportbar?color=%2304D361">
+  <img alt="Repository size" src="https://img.shields.io/github/repo-size/ana-ferreiramg/sportbar">
+  <a href="https://github.com/ana-ferreiramg/sportbar/commits/main">
+    <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/ana-ferreiramg/sportbar">
+  </a>
+  <a href="https://jstack.com.br/">
+    <img alt="Course JStack" src="https://img.shields.io/badge/course-JStack-black">
+  </a>
+</p>
+
+<h4 align="center">
+	🚧 🍻 SportBar ⚙ In progress... 🚧
+</h4>
+
+<p align="center">
+ <a href="#-about">About</a> •
+ <a href="#-technologies">Technologies</a> •
+ <a href="#-author">Author</a> •
+</p>
+
+## 📍 About
+
+SportBar offers a responsive and customizable landing page for the trade of beverages and snacks.
+
+---
+
+### 📱 Mobile
+
+<p align="center">
+    <img alt="SportBar" title="#SportBar" src="./github/Splash.png" width="250px"/>
+    <img alt="SportBar" title="#SportBar" src="./github/Home.png" width="250px"/>
+    <img alt="SportBar" title="#SportBar" src="./github/Cardapio.png" width="250px"/>
+</span>
+
+### 💻 Web
+
+<p align="center">
+    🚧 ⚙ In progress... 🚧
+</p>
+
+---
+
+## 🚀 Getting Started
 
 First, run the development server:
 
@@ -16,21 +65,32 @@ bun dev
 
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+---
 
-This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
+## 🛠 Technologies
 
-## Learn More
+The project was constructed using the following tools:
 
-To learn more about Next.js, take a look at the following resources:
+- ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+- ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+- ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
+- ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+- ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+---
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
+## 🦸‍♀️ Author
 
-## Deploy on Vercel
+<a href="https://github.com/ana-ferreiramg">
+ <img src="https://avatars.githubusercontent.com/u/60697599?v=4" width="100px;" alt="Ana Ferreira's profile picture." style="border-radius: 50%;"/>
+ <br />
+ <sub><b>Ana Ferreira</b> 🚀</sub>
+ <br />
+ <br />
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+[![Linkedin Badge](https://img.shields.io/badge/-Ana_Ferreira-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ana--ferreira/)](https://www.linkedin.com/in/ana--ferreira/)
+[![Gmail Badge](https://img.shields.io/badge/-anapaulaferreiradev@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:anapaulaferreiradev@gmail.com)](mailto:anapaulaferreiradev@gmail.com)
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+---
+
+Made with ❤️ by Ana Ferreira 👋🏽 [Contact me!](https://www.linkedin.com/in/ana--ferreira/)
